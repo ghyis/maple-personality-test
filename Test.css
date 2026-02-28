@@ -1,1 +1,33 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #ffffff;
+  padding: 285px 476px 331px 475px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: #a83d3d;
+  flex-shrink: 0;
+  width: 489px;
+  height: 408px;
+  position: relative;
+}
+.rectangle-2 {
+  background: #9e7f7f;
+  flex-shrink: 0;
+  width: 339px;
+  height: 280px;
+  position: absolute;
+  left: 556px;
+  top: 355px;
+}
 
